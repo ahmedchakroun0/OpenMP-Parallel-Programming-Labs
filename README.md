@@ -117,12 +117,3 @@ export OMP_NUM_THREADS=4
 1. **Understand OpenMP fundamentals** — parallel regions, data sharing, and work distribution.
 2. **Analyze performance metrics** such as speedup, scalability, and efficiency.
 3. **Differentiate between regular and irregular workloads** and select the right scheduling strategy.
-
-## 📊 Additional Notes
-
-### Speedup Formula
-```
-Speedup = Sequential Time / Parallel Time
-```
-
-### Efficiency Formula
